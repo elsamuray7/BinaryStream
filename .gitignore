@@ -1,0 +1,8 @@
+/target
+Cargo.lock
+
+# IntelliJ IDEA
+.idea
+
+# VS Code
+#.vscode # needed for debugging
